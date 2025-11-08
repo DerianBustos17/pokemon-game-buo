@@ -29,3 +29,7 @@ npm install
 ## Iniciar proyecto en desarrollo
 
 npm run dev
+
+## Para Correr las pruebas unitarias
+
+npm run test
