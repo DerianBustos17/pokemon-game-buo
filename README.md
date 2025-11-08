@@ -33,3 +33,7 @@ npm run dev
 ## Run unit tests
 
 npm run test
+
+## Link of project in Vercel
+
+https://pokemon-game-buo-9skl.vercel.app/
