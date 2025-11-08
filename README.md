@@ -1,15 +1,15 @@
 # Pokemon Game
 
-Este proyecto está construido con **Vue 3** y **Vite**.
+This project is built with **Vue 3** y **Vite**.
 
 ## Requisitos previos
 
-Antes de ejecutar el proyecto, debe tener instalados los siguientes programas:
+Before running the project, you must have the following installed:
 
-- **Node.js v22.12.0** (o superior)
-- **npm** (incluido con Node.js)
+- **Node.js ^v22.12.0**
+- **npm**
 
-## Tecnologias utilizadas en el proyecto
+## Technologies used in the project
 
 - **Vite**
 - **Vue 3**
@@ -17,19 +17,19 @@ Antes de ejecutar el proyecto, debe tener instalados los siguientes programas:
 - **Axios**
 - **CSS**
 
-## Instalación
+## Installation
 
 git clone https://github.com/DerianBustos17/pokemon-game-buo.git
 cd pokemon-game-buo
 
-## Instalar dependencias
+## Install dependencies
 
 npm install
 
-## Iniciar proyecto en desarrollo
+## Start the development server
 
 npm run dev
 
-## Para Correr las pruebas unitarias
+## Run unit tests
 
 npm run test
